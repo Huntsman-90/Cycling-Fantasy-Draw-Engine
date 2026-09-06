@@ -1,0 +1,6 @@
+{
+  "name": "Cycling Fantasy",
+  "description": "CF-EDE: Cycling Fantasy Draft Engine & Optimizer with personal cabinet and roster management",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
